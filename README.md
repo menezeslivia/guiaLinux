@@ -5,7 +5,7 @@
 
 # 🌸 Guia de Comandos Linux 🌸  
 
-✨ Bem-vinda(o) ao **guiaLinux**, um repositório útil para quem deseja aprender e revisar comandos fundamentais do Linux!  🌷💻  
+✨ Boas vindas ao **guiaLinux**, um repositório útil para quem deseja aprender e revisar comandos fundamentais do Linux!  🌷💻  
 
 ---
 
