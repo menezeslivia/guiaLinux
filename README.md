@@ -15,7 +15,6 @@ Este repositório é dedicado ao aprendizado de **administração de servidores 
 7. [Comandos de Permissões 🔑](#-comandos-de-permissões-)  
 8. [Comandos de Pacotes 📦](#-comandos-de-pacotes-)  
 9. [Outros Comandos Úteis ✨](#-outros-comandos-úteis-)  
-10. [Conclusão 💖](#-conclusão-)  
 
 ---
 
@@ -25,7 +24,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 🧭 Comandos de Navegação  
+## Comandos de Navegação 🧭
 
 | Comando | Descrição |
 |---------|-----------|
@@ -40,7 +39,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 📂 Comandos de Arquivos e Diretórios  
+## Comandos de Arquivos e Diretórios 📂
 
 | Comando | Descrição |
 |---------|-----------|
@@ -62,7 +61,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 👩‍💻 Comandos de Usuários  
+## Comandos de Usuários 👩‍💻
 
 | Comando | Descrição |
 |---------|-----------|
@@ -77,7 +76,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## ⚙️ Comandos de Processos  
+## Comandos de Processos ⚙️
 
 | Comando | Descrição |
 |---------|-----------|
@@ -92,7 +91,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 🌐 Comandos de Rede  
+## Comandos de Rede 🌐
 
 | Comando | Descrição |
 |---------|-----------|
@@ -108,7 +107,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 🔑 Comandos de Permissões  
+## Comandos de Permissões 🔑
 
 | Comando | Descrição |
 |---------|-----------|
@@ -119,7 +118,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## 📦 Comandos de Pacotes  
+## Comandos de Pacotes 📦
 
 (Exemplo com **Debian/Ubuntu**)  
 
@@ -134,7 +133,7 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## ✨ Outros Comandos Úteis  
+## Outros Comandos Úteis ✨
 
 | Comando | Descrição |
 |---------|-----------|
