@@ -1,4 +1,7 @@
-<img src="./hellokitty.png" alt="Hello Kitty fofinha" width="200"/>
+<p align="center">
+  <img src="./hellokitty.png" alt="Hello Kitty fofinha" width="200"/>
+</p>
+
 
 # 🌸 Guia de Comandos Linux 🌸  
 
