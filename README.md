@@ -19,7 +19,7 @@ Este repositório é dedicado ao aprendizado de **administração de servidores 
 
 ---
 
-## 🌺 Introdução  
+## Introdução  
 O Linux é um dos sistemas operacionais mais poderosos e utilizados no mundo dos servidores.  
 Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, para facilitar os estudos.
 
