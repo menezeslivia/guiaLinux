@@ -1,31 +1,32 @@
 # 🌸 Guia de Comandos Linux 🌸  
 
-✨ Bem-vinda(o) ao **guiaLinux**, um repositório útil para quem deseja aprender e revisar comandos fundamentais do Linux!  
-Este repositório é dedicado ao aprendizado de **administração de servidores Linux**, da disciplina de DevOps, mas com um toque de delicadeza 🌷💻  
+✨ Bem-vinda(o) ao **guiaLinux**, um repositório útil para quem deseja aprender e revisar comandos fundamentais do Linux!  🌷💻  
 
 ---
 
-## 📑 Sumário
-
-- [Introdução](#introducao)
-- [Comandos de Navegação 🧭](#comandos-de-navegacao)
-- [Comandos de Arquivos e Diretórios 📂](#comandos-de-arquivos-e-diretorios)
-- [Comandos de Usuários 👩‍💻](#comandos-de-usuarios)
-- [Comandos de Processos ⚙️](#comandos-de-processos)
-- [Comandos de Rede 🌐](#comandos-de-rede)
-- [Comandos de Permissões 🔑](#comandos-de-permissoes)
-- [Comandos de Pacotes 📦](#comandos-de-pacotes)
-- [Outros Comandos Úteis ✨](#outros-comandos-uteis) 
+## 📑 Sumário  
+- [Introdução](#introducao)  
+- [Comandos de Navegação 🧭](#comandos-de-navegacao)  
+- [Comandos de Arquivos e Diretórios 📂](#comandos-de-arquivos-e-diretorios)  
+- [Comandos de Usuários 👩‍💻](#comandos-de-usuarios)  
+- [Comandos de Processos ⚙️](#comandos-de-processos)  
+- [Comandos de Rede 🌐](#comandos-de-rede)  
+- [Comandos de Permissões 🔑](#comandos-de-permissoes)  
+- [Comandos de Pacotes 📦](#comandos-de-pacotes)  
+- [Outros Comandos Úteis ✨](#outros-comandos-uteis)  
+- [Conclusão 💖](#conclusao)  
 
 ---
 
-## Introdução  
+<a id="introducao"></a>
+## 🌺 Introdução  
 O Linux é um dos sistemas operacionais mais poderosos e utilizados no mundo dos servidores.  
-Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, para facilitar os estudos.
+Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, para facilitar os estudos na disciplina de DevOps.
 
 ---
 
-## Comandos de Navegação 🧭
+<a id="comandos-de-navegacao"></a>
+## 🧭 Comandos de Navegação  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -40,7 +41,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Arquivos e Diretórios 📂
+<a id="comandos-de-arquivos-e-diretorios"></a>
+## 📂 Comandos de Arquivos e Diretórios  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -62,7 +64,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Usuários 👩‍💻
+<a id="comandos-de-usuarios"></a>
+## 👩‍💻 Comandos de Usuários  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -77,7 +80,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Processos ⚙️
+<a id="comandos-de-processos"></a>
+## ⚙️ Comandos de Processos  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -92,7 +96,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Rede 🌐
+<a id="comandos-de-rede"></a>
+## 🌐 Comandos de Rede  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -108,7 +113,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Permissões 🔑
+<a id="comandos-de-permissoes"></a>
+## 🔑 Comandos de Permissões  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -119,7 +125,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Comandos de Pacotes 📦
+<a id="comandos-de-pacotes"></a>
+## 📦 Comandos de Pacotes  
 
 (Exemplo com **Debian/Ubuntu**)  
 
@@ -134,7 +141,8 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-## Outros Comandos Úteis ✨
+<a id="outros-comandos-uteis"></a>
+## ✨ Outros Comandos Úteis  
 
 | Comando | Descrição |
 |---------|-----------|
@@ -152,6 +160,10 @@ Neste guia, reuni **50+ comandos essenciais**, explicados de forma objetiva, par
 
 ---
 
-🌸 Este guia reúne os **principais comandos Linux** que você precisa conhecer para administração de sistemas e estudos de DevOps.  
+<a id="conclusao"></a>
+## 💖 Conclusão  
 
+🌸 Este guia reúne os **principais comandos Linux** que você precisa conhecer para administração de sistemas e estudos de DevOps.   
 Feito com muito 💕 e terminal `~$` mágico ✨  
+
+---
