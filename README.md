@@ -1,3 +1,5 @@
+![Hello Kitty](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2q8a9a9i1e6a9o0%2F&psig=AOvVaw321p8wYYu_mZ80pqQSwfc5&ust=1759527177802000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMi61tS7hpADFQAAAAAdAAAAABAL)
+
 # 🌸 Guia de Comandos Linux 🌸  
 
 ✨ Bem-vinda(o) ao **guiaLinux**, um repositório útil para quem deseja aprender e revisar comandos fundamentais do Linux!  🌷💻  
