@@ -5,16 +5,17 @@ Este repositório é dedicado ao aprendizado de **administração de servidores 
 
 ---
 
-## 📑 Sumário  
-1. [Introdução](#-introdução)  
-2. [Comandos de Navegação 🧭](#-comandos-de-navegação-)  
-3. [Comandos de Arquivos e Diretórios 📂](#-comandos-de-arquivos-e-diretórios-)  
-4. [Comandos de Usuários 👩‍💻](#-comandos-de-usuários-)  
-5. [Comandos de Processos ⚙️](#-comandos-de-processos-)  
-6. [Comandos de Rede 🌐](#-comandos-de-rede-)  
-7. [Comandos de Permissões 🔑](#-comandos-de-permissões-)  
-8. [Comandos de Pacotes 📦](#-comandos-de-pacotes-)  
-9. [Outros Comandos Úteis ✨](#-outros-comandos-úteis-)  
+## 📑 Sumário
+
+- [Introdução](#introducao)
+- [Comandos de Navegação 🧭](#comandos-de-navegacao)
+- [Comandos de Arquivos e Diretórios 📂](#comandos-de-arquivos-e-diretorios)
+- [Comandos de Usuários 👩‍💻](#comandos-de-usuarios)
+- [Comandos de Processos ⚙️](#comandos-de-processos)
+- [Comandos de Rede 🌐](#comandos-de-rede)
+- [Comandos de Permissões 🔑](#comandos-de-permissoes)
+- [Comandos de Pacotes 📦](#comandos-de-pacotes)
+- [Outros Comandos Úteis ✨](#outros-comandos-uteis) 
 
 ---
 
