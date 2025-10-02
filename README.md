@@ -1,4 +1,4 @@
-![Hello Kitty fofinha](./hellokitty.png)
+<img src="./hellokitty.png" alt="Hello Kitty fofinha" width="300"/>
 
 # 🌸 Guia de Comandos Linux 🌸  
 
